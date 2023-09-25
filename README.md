@@ -33,7 +33,7 @@ This project includes:
 2. Customize the models, hyperparameters, or data preprocessing steps as needed for your specific use case.
 
 ## Data Source
-The dataset used in this project is the "German Credit" dataset, which provides information on credit applicants' characteristics and risk profiles.
+The dataset used in this project is the "german_credit.csv" dataset, which provides information on credit applicants' characteristics and risk profiles.
 
 ## Data Preprocessing
 - Handling missing values in 'Saving_account' and 'Checking_account' columns.
