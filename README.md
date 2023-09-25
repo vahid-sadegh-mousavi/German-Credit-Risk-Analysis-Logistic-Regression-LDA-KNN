@@ -1,6 +1,6 @@
 # German-Credit-Risk-Analysis-Logistic-Regression-LDA-KNN
 
-![Project Image](project_image.png)
+![Project Image](project_image.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
